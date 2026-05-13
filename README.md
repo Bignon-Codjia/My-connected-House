@@ -1,6 +1,9 @@
 # My-connected-House
 ![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32-blue?style=for-the-badge&logo=espressif)
 ![Language: C++](https://img.shields.io/badge/Language-C++-green?style=for-the-badge&logo=c%2B%2B)
+![Language: HTML](https://img.shields.io/badge/Language-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Language: CSS](https://img.shields.io/badge/Language-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Language: Javascript](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 A professional, "low-cost" approach to home automation. This project transforms an ESP32 into a standalone Wi-Fi Access Point hosting a responsive web dashboard to monitor environmental data and control hardware relays in real-time—no external router or internet required.

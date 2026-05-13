@@ -17,7 +17,7 @@ A professional, "low-cost" approach to home automation. This project transforms 
 
 ---
 
-## 🛠 Hardware Requirements
+## Hardware Requirements
 
 | Component | Pin (GPIO) | Description |
 | :--- | :--- | :--- |

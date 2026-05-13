@@ -7,7 +7,7 @@ A professional, "low-cost" approach to home automation. This project transforms 
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Autonomous Network:** Operates in Access Point (AP) mode. Connect directly to the ESP32's own Wi-Fi.
 - **Real-time Monitoring:** Live temperature and humidity updates using the DHT22 sensor.

@@ -21,7 +21,7 @@ A professional, "low-cost" approach to home automation. This project transforms 
 
 | Component | Pin (GPIO) | Description |
 | :--- | :--- | :--- |
-| **ESP32 DevKit V1** | N/A | Main Microcontroller |
+| **ESP32 DevKit V1** | // | Main Microcontroller |
 | **DHT22 Sensor** | GPIO 4 | Temp/Humidity Sensing |
 | **4-Channel Relay** | 26, 27, 14, 12 | Appliance Switching |
 | **Power Supply** | 5V / 2A | Stable power for ESP32 and Relays |
